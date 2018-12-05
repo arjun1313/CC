@@ -1,0 +1,6 @@
+
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8òŽ»Ñó,
+rsquid:UselessImportCheck"GRemove this unused import 'org.springframework.boot.CommandLineRunner'.(È—ÿÅ8ÑÖöó,
+ƒsquid:UselessImportCheck"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡ž¸Îùÿÿÿÿ8û†´öó,
+€squid:UselessImportCheck"URemove this unused import 'com.stackroute.challengecreator.service.ChallengeService'.(Àø£8©÷¬öó,
+xsquid:UselessImportCheck"MRemove this unused import 'com.stackroute.challengecreator.domain.Challenge'.(£ìÇ8àâÁöó,

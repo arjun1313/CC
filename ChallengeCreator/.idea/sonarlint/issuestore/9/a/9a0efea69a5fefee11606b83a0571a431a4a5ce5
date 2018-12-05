@@ -1,0 +1,5 @@
+
+%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¼Î“Í
+lsquid:S3305"UInject this field value directly into "mongoConverter", the only method that uses it.(·õ°ş
+qsquid:S3305"UInject this field value directly into "mongoConverter", the only method that uses it.(ğ²¢Óùÿÿÿÿ
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¼Î“Í

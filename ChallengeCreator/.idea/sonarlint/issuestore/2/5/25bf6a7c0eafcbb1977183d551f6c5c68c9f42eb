@@ -1,0 +1,42 @@
+
+T
+squid:S106U"9Replace this use of System.out or System.err by a logger.(ú¸ÕÄüÿÿÿÿ
+V
+squid:S106a"9Replace this use of System.out or System.err by a logger.(Ò™²Í8Îº°õ,
+O
+squid:S106="9Replace this use of System.out or System.err by a logger.(Ô±–å
+isquid:S2147Ü"ECombine this catch with the one at line 217, which has the same body.(á†¡Øüÿÿÿÿ8îÅ¤Íó,
+Dsquid:S1452\"&Remove usage of generic wildcard type.(Ó¸‹µ8Îº°õ,
+T
+squid:S106I"9Replace this use of System.out or System.err by a logger.(º•éĞøÿÿÿÿ
+>squid:S1452¥"&Remove usage of generic wildcard type.(¢´…Ù
+O
+squid:S106L"9Replace this use of System.out or System.err by a logger.(Ò™²Í
+^squid:S4684)"@Replace this persistent entity with a simple POJO or DTO object.(ŠÚÙ©8Í¤öÍó,
+T
+squid:S1068"9Replace this use of System.out or System.err by a logger.(Í„ îùÿÿÿÿ
+>squid:S1452´"&Remove usage of generic wildcard type.(™ñì
+T
+squid:S106A"9Replace this use of System.out or System.err by a logger.(ú¸ÕÄüÿÿÿÿ
+>squid:S1452‡"&Remove usage of generic wildcard type.(¶”“¢
+Jsquid:S1452Ò"&Remove usage of generic wildcard type.(ÄÈ˜“ÿÿÿÿÿ8õ£—Íó,
+‚squid:S1488."fImmediately return this expression instead of assigning it to the temporary variable "responseEntity".(ù÷Í—ùÿÿÿÿ
+Jsquid:S1452‘"&Remove usage of generic wildcard type.(øúÕ¿ùÿÿÿÿ8Àñ€Úó,
+[
+squid:S106^"9Replace this use of System.out or System.err by a logger.(º•éĞøÿÿÿÿ8Îº°õ,
+=squid:S1452p"&Remove usage of generic wildcard type.(¨¬¡Ú
+O
+squid:S106f"9Replace this use of System.out or System.err by a logger.(ë×€
+Csquid:S1452Ä"&Remove usage of generic wildcard type.(õİ‹ÿÿÿÿÿ
+Bsquid:S14526"&Remove usage of generic wildcard type.(×í´Óúÿÿÿÿ
+[
+squid:S106j"9Replace this use of System.out or System.err by a logger.(ú¸ÕÄüÿÿÿÿ8Îº°õ,
+[
+squid:S106{"9Replace this use of System.out or System.err by a logger.(†º·üÿÿÿÿ8Îº°õ,
+O
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(ë×€
+Jsquid:S1452ä"&Remove usage of generic wildcard type.(¦¼‚Àüÿÿÿÿ8â÷ªÍó,
+dsquid:S4684Ò"@Replace this persistent entity with a simple POJO or DTO object.(ÄÈ˜“ÿÿÿÿÿ8Í¤öÍó,
+Csquid:S1452›"&Remove usage of generic wildcard type.(÷È©şÿÿÿÿ
+=squid:S1452G"&Remove usage of generic wildcard type.(µ³ó
+=squid:S1452)"&Remove usage of generic wildcard type.(ŠÚÙ©
